@@ -1,6 +1,6 @@
 # Space industry roles
 
-**60 open roles from 18 employers**, each first posted in the 30 days before 2026-10-25, taken from the employers' own career sites (Greenhouse, Lever, Ashby, Workable, SmartRecruiters, Recruitee, Workday public job APIs). Every row links straight to the employer's apply page; no other job board sits in between. 1 rows include a salary.
+**53 open roles from 17 employers**, each first posted in the 30 days before 2026-10-26, taken from the employers' own career sites (Greenhouse, Lever, Ashby, Workable, SmartRecruiters, Recruitee, Workday public job APIs). Every row links straight to the employer's apply page; no other job board sits in between. 1 rows include a salary.
 
 ## Use it on a job board
 
@@ -8,7 +8,7 @@
 - **Indeed-style XML**: `https://raw.githubusercontent.com/benkrasin/niche-job-feeds/main/space-industry/feed.xml` (most job-board importers)
 - **CSV**: [space-industry/jobs.csv](jobs.csv)
 
-This folder is a free snapshot. A daily-refreshed feed for your board starts with a free trial: [start the trial](https://buy.stripe.com/aFa3cu24kfxH08M9FG53O08?client_reference_id=mirror-findaspace). Need a different niche? [Open a feed request](https://github.com/benkrasin/niche-job-feeds/issues/new?template=feed-request.yml) for a free sample. Questions: krasynlabs@gmail.com. Krasyn Labs runs this service with an AI agent.
+This folder is a free snapshot, rebuilt automatically every 3 days. A daily-refreshed feed for your board starts with a free trial: [start the trial](https://buy.stripe.com/aFa3cu24kfxH08M9FG53O08?client_reference_id=mirror-space-industry). Need a different niche? [Open a feed request](https://github.com/benkrasin/niche-job-feeds/issues/new?template=feed-request.yml) for a free sample. Questions: krasynlabs@gmail.com. Krasyn Labs runs this service with an AI agent.
 
 ## First 30 roles
 
@@ -26,6 +26,11 @@ This folder is a free snapshot. A daily-refreshed feed for your board starts wit
 | [Working Student Avionics, Spectrum](https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5008831101) | Isar Aerospace SE | Parsdorf, Bavaria, Germany |  |
 | [Working Student - Launch Vehicle Design (m/f/d)](https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5013742101) | Isar Aerospace SE | Parsdorf, Bavaria, Germany |  |
 | [Working Student – Piping System, Propulsion (m/f/d)](https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5007501101) | Isar Aerospace SE | Parsdorf, Bavaria, Germany |  |
+| [AIT Lead (f/m/d)](https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/5000289101) | Rocket Factory Augsburg AG (EN) | Augsburg, Bavaria, Germany |  |
+| [Avionics AIT Technician (m/f/d)](https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4997023101) | Rocket Factory Augsburg AG (EN) | Augsburg, Bavaria, Germany |  |
+| [Propulsion Valve Development Engineer (m/f/d)](https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4989825101) | Rocket Factory Augsburg AG (EN) | Augsburg, Bavaria, Germany |  |
+| [Lead RF Engineer - Electronic Warfare](https://jobs.ashbyhq.com/harmattan-ai/d62ea534-6b2f-412b-9e62-6f2dbb2d99b7) | Harmattan Ai | Paris |  |
+| [Orbital Analyst](https://jobs.ashbyhq.com/foundational/057ed84b-6016-4b23-aa95-74c2ebc266e5) | Foundational | London |  |
 | [Ingénieur AIT Satellites H/F](https://jobs.smartrecruiters.com/ALTEN/744000157393270) | ALTEN | Toulouse, Occitanie, France |  |
 | [Architecte système en navigation par satellites (H/F)](https://jobs.smartrecruiters.com/ALTEN/744000157391904) | ALTEN | Toulouse, Occitanie, France |  |
 | [Ingénieur GNC Mécanique Spatial (F/H)](https://jobs.smartrecruiters.com/ALTEN/744000157072150) | ALTEN | Boulogne-Billancourt, IDF, France |  |
@@ -38,11 +43,6 @@ This folder is a free snapshot. A daily-refreshed feed for your board starts wit
 | [V.I.E AIT Electrical Engineer (M/F)](https://jobs.smartrecruiters.com/ALTEN/744000154055840) | ALTEN | Friedrichshafen, BW, Germany |  |
 | [RF Engineer](https://jobs.smartrecruiters.com/ALTEN/744000152120150) | ALTEN | Templecombe, England, United Kingdom |  |
 | [Avionics Electronics Specialist](https://jobs.smartrecruiters.com/ALTEN/744000152119469) | ALTEN | Bedford, England, United Kingdom |  |
-| [AIT Lead (f/m/d)](https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/5000289101) | Rocket Factory Augsburg AG (EN) | Augsburg, Bavaria, Germany |  |
-| [Avionics AIT Technician (m/f/d)](https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4997023101) | Rocket Factory Augsburg AG (EN) | Augsburg, Bavaria, Germany |  |
-| [Propulsion Valve Development Engineer (m/f/d)](https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4989825101) | Rocket Factory Augsburg AG (EN) | Augsburg, Bavaria, Germany |  |
-| [Lead RF Engineer - Electronic Warfare](https://jobs.ashbyhq.com/harmattan-ai/d62ea534-6b2f-412b-9e62-6f2dbb2d99b7) | Harmattan Ai | Paris |  |
-| [Ingénieur Junior Traitement du Signal Télécom/Satellite H/F](https://jobs.smartrecruiters.com/Scalian/744000156472726) | Scalian | Toulouse, Occitanie, France |  |
-| [Ingénieur AIT/AIV Systèmes RF Spatiaux (H/F)](https://jobs.smartrecruiters.com/Scalian/744000156323609) | Scalian | Toulouse, Occitanie, France |  |
+| [Propulsion GSE Team Leader](https://jobs.ashbyhq.com/the-exploration-company/2f42ac59-9086-4b9f-adf5-3eea47576f83) | The Exploration Company | Bordeaux, France |  |
 
-All 60 roles are in [jobs.csv](jobs.csv).
+All 53 roles are in [jobs.csv](jobs.csv).

@@ -1,6 +1,6 @@
 # European defence tech roles
 
-**410 open roles from 16 employers**, each first posted in the 60 days before 2026-10-25, taken from the employers' own career sites (Greenhouse, Lever, Ashby, Workable, SmartRecruiters, Recruitee, Workday public job APIs). Every row links straight to the employer's apply page; no other job board sits in between. 1 rows include a salary.
+**410 open roles from 16 employers**, each first posted in the 60 days before 2026-10-26, taken from the employers' own career sites (Greenhouse, Lever, Ashby, Workable, SmartRecruiters, Recruitee, Workday public job APIs). Every row links straight to the employer's apply page; no other job board sits in between. 1 rows include a salary.
 
 ## Use it on a job board
 
@@ -8,7 +8,7 @@
 - **Indeed-style XML**: `https://raw.githubusercontent.com/benkrasin/niche-job-feeds/main/defence-europe/feed.xml` (most job-board importers)
 - **CSV**: [defence-europe/jobs.csv](jobs.csv)
 
-This folder is a free snapshot. A daily-refreshed feed for your board starts with a free trial: [start the trial](https://buy.stripe.com/aFa3cu24kfxH08M9FG53O08?client_reference_id=mirror-defencejobseu). Need a different niche? [Open a feed request](https://github.com/benkrasin/niche-job-feeds/issues/new?template=feed-request.yml) for a free sample. Questions: krasynlabs@gmail.com. Krasyn Labs runs this service with an AI agent.
+This folder is a free snapshot, rebuilt automatically every 3 days. A daily-refreshed feed for your board starts with a free trial: [start the trial](https://buy.stripe.com/aFa3cu24kfxH08M9FG53O08?client_reference_id=mirror-defence-europe). Need a different niche? [Open a feed request](https://github.com/benkrasin/niche-job-feeds/issues/new?template=feed-request.yml) for a free sample. Questions: krasynlabs@gmail.com. Krasyn Labs runs this service with an AI agent.
 
 ## First 30 roles
 

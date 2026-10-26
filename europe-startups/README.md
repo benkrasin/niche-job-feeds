@@ -1,6 +1,6 @@
 # Startup roles across Europe
 
-**3,000 open roles from 524 employers**, each first posted in the 30 days before 2026-10-25, taken from the employers' own career sites (Greenhouse, Lever, Ashby, Workable, SmartRecruiters, Recruitee, Workday public job APIs). Every row links straight to the employer's apply page; no other job board sits in between. 331 rows include a salary.
+**3,000 open roles from 622 employers**, each first posted in the 30 days before 2026-10-26, taken from the employers' own career sites (Greenhouse, Lever, Ashby, Workable, SmartRecruiters, Recruitee, Workday public job APIs). Every row links straight to the employer's apply page; no other job board sits in between. 316 rows include a salary.
 
 ## Use it on a job board
 
@@ -8,41 +8,41 @@
 - **Indeed-style XML**: `https://raw.githubusercontent.com/benkrasin/niche-job-feeds/main/europe-startups/feed.xml` (most job-board importers)
 - **CSV**: [europe-startups/jobs.csv](jobs.csv)
 
-This folder is a free snapshot. A daily-refreshed feed for your board starts with a free trial: [start the trial](https://buy.stripe.com/aFa3cu24kfxH08M9FG53O08?client_reference_id=mirror-eustartups). Need a different niche? [Open a feed request](https://github.com/benkrasin/niche-job-feeds/issues/new?template=feed-request.yml) for a free sample. Questions: krasynlabs@gmail.com. Krasyn Labs runs this service with an AI agent.
+This folder is a free snapshot, rebuilt automatically every 3 days. A daily-refreshed feed for your board starts with a free trial: [start the trial](https://buy.stripe.com/aFa3cu24kfxH08M9FG53O08?client_reference_id=mirror-europe-startups). Need a different niche? [Open a feed request](https://github.com/benkrasin/niche-job-feeds/issues/new?template=feed-request.yml) for a free sample. Questions: krasynlabs@gmail.com. Krasyn Labs runs this service with an AI agent.
 
 ## First 30 roles
 
 | Role | Employer | Location | Salary |
 |---|---|---|---|
-| [Senior Engineer I, Field Service](https://www.asm.com/open-vacancies/?gh_jid=5002940101) | ASM | Ireland > Lucan, Co. Dublin |  |
-| [Senior Engineering Technician I, Equipment Engineering](https://www.asm.com/open-vacancies/?gh_jid=4981278101) | ASM | Belgium > Leuven |  |
-| [Senior Engineering Technician I, Process Engineering](https://www.asm.com/open-vacancies/?gh_jid=4983810101) | ASM | Belgium > Leuven |  |
-| [Senior Engineer I, Process Engineering](https://www.asm.com/open-vacancies/?gh_jid=4989477101) | ASM | Belgium > Leuven |  |
-| [Senior Engineer, Process Engineering - ASD](https://www.asm.com/open-vacancies/?gh_jid=4975649101) | ASM | Belgium > Leuven |  |
-| [Specialist II, Service Operations](https://www.asm.com/open-vacancies/?gh_jid=4996228101) | ASM | France > Crolles |  |
-| [Enterprise Account Executive - CEE](https://job-boards.greenhouse.io/anthropic/jobs/5449831008) | Anthropic | Munich, Germany | EUR 265,000–310,000/yr |
-| [Enterprise Account Executive, Energy & Utilities](https://job-boards.greenhouse.io/anthropic/jobs/5446414008) | Anthropic | Munich, Germany |  |
-| [Enterprise Account Executive, FSI](https://job-boards.greenhouse.io/anthropic/jobs/5426613008) | Anthropic | Paris, France |  |
-| [Growth Account Executive, Startups](https://job-boards.greenhouse.io/anthropic/jobs/5440799008) | Anthropic | Dublin, IE | EUR 155,000–205,000/yr |
-| [IT Support Engineer](https://job-boards.greenhouse.io/anthropic/jobs/5439524008) | Anthropic | Dublin, IE | EUR 125,000–165,000/yr |
-| [Sales Manager, Enterprise Industries](https://job-boards.greenhouse.io/anthropic/jobs/5456481008) | Anthropic | Paris, France |  |
-| [Account Executive, Enterprise Grower (Benelux)](https://stripe.com/jobs/search?gh_jid=8267851) | Stripe | Amsterdam |  |
-| [Account Executive - Enterprise (Grower) - French Speaking](https://stripe.com/jobs/search?gh_jid=8284962) | Stripe | Paris |  |
-| [Account Executive - Enterprise (Hunter) - Belgium](https://stripe.com/jobs/search?gh_jid=8284970) | Stripe | Belgium |  |
-| [Account Executive, Existing Business, French](https://stripe.com/jobs/search?gh_jid=8286680) | Stripe | Dublin |  |
-| [Account Executive, Existing Business, Iberia](https://stripe.com/jobs/search?gh_jid=8241322) | Stripe | Dublin |  |
-| [Account Executive, Funded Startups DACH](https://stripe.com/jobs/search?gh_jid=8271659) | Stripe | Berlin |  |
-| [Account Executive - Nordics (Hunter)](https://stripe.com/jobs/search?gh_jid=8284974) | Stripe | Sweden (Remote) |  |
-| [Account Executive, Platforms (Grower) - German Speaking](https://stripe.com/jobs/search?gh_jid=8284968) | Stripe | Germany |  |
-| [Account Executive - Platforms Hunter (French Fluency)](https://stripe.com/jobs/search?gh_jid=8241292) | Stripe | Dublin |  |
-| [Account Executive - Platforms (LFC) - Spanish Speaking](https://stripe.com/jobs/search?gh_jid=8284965) | Stripe | Madrid, Barcelona |  |
-| [Account Executive, Platforms (Nordic Region)](https://stripe.com/jobs/search?gh_jid=8241304) | Stripe | Dublin |  |
-| [Account Executive, SaaS Platforms Grower](https://stripe.com/jobs/search?gh_jid=8241294) | Stripe | Dublin |  |
-| [Account Executive, SMB - Existing Business](https://stripe.com/jobs/search?gh_jid=8286655) | Stripe | Dublin |  |
-| [Account Executive, SMB Hunter (Central Eastern Europe)](https://stripe.com/jobs/search?gh_jid=8258364) | Stripe | Dublin |  |
-| [Account Executive - Startup SaaS Platforms, Scaled UK Hunter](https://stripe.com/jobs/search?gh_jid=8288876) | Stripe | Dublin |  |
-| [Account Executive, Velocity Scaled Grower (Italian or Spanish fluency)](https://stripe.com/jobs/search?gh_jid=8241345) | Stripe | Dublin |  |
-| [Community Operations Specialist](https://stripe.com/jobs/search?gh_jid=8257185) | Stripe | Dublin |  |
-| [Engineering Manager - Support Experience](https://stripe.com/jobs/search?gh_jid=8264421) | Stripe | Dublin |  |
+| [Sales Director, Retail & Consumer Goods](https://job-boards.greenhouse.io/braze/jobs/8248794) | Braze | Berlin |  |
+| [Senior Business Development Representative](https://job-boards.greenhouse.io/braze/jobs/8242573) | Braze | Berlin |  |
+| [Senior Business Development Respresentative - French Speaker](https://job-boards.greenhouse.io/braze/jobs/8274093) | Braze | Paris |  |
+| [Senior Business Development Respresentative - Hebrew Speaker](https://job-boards.greenhouse.io/braze/jobs/8274247) | Braze | Paris |  |
+| [Senior Business Development Respresentative - Spanish Speaker](https://job-boards.greenhouse.io/braze/jobs/8274237) | Braze | Paris |  |
+| [Infrastructure Security Engineer - London](https://job-boards.greenhouse.io/xai/jobs/5241280007) | SpaceXSI | Dublin, Ireland; London, England, United Kingdom |  |
+| [Engineering Manager - Android](https://job-boards.greenhouse.io/adyen/jobs/8167155) | Adyen | Amsterdam |  |
+| [Engineering Manager – Identity & Verification Services](https://job-boards.greenhouse.io/adyen/jobs/8229821) | Adyen | Amsterdam |  |
+| [Head of Engineering - Financial Data Experience](https://job-boards.greenhouse.io/adyen/jobs/8158521) | Adyen | Amsterdam |  |
+| [Manager, Salesforce Integration](https://job-boards.greenhouse.io/adyen/jobs/8273487) | Adyen | Amsterdam |  |
+| [Partnerships Marketing Manager, EMEA](https://job-boards.greenhouse.io/adyen/jobs/8166549) | Adyen | Amsterdam; Berlin; London |  |
+| [People Technology Application Engineer](https://job-boards.greenhouse.io/adyen/jobs/8226137) | Adyen | Amsterdam |  |
+| [Product Manager - Interface Foundations](https://job-boards.greenhouse.io/adyen/jobs/8244728) | Adyen | Amsterdam |  |
+| [Senior Digital Designer](https://job-boards.greenhouse.io/adyen/jobs/8242349) | Adyen | Amsterdam |  |
+| [Senior Linux System Engineer](https://job-boards.greenhouse.io/adyen/jobs/8213364) | Adyen | Amsterdam |  |
+| [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/adyen/jobs/8288668) | Adyen | Amsterdam |  |
+| [Senior Machine Learning Engineer - AML Tech](https://job-boards.greenhouse.io/adyen/jobs/8288674) | Adyen | Amsterdam |  |
+| [Senior Product Manager - Domestic Card Schemes](https://job-boards.greenhouse.io/adyen/jobs/8302785) | Adyen | Amsterdam |  |
+| [Senior Product Manager - Financial Products](https://job-boards.greenhouse.io/adyen/jobs/8280713) | Adyen | Amsterdam |  |
+| [Senior Product Manager, Identity & Risk Intelligence](https://job-boards.greenhouse.io/adyen/jobs/8281712) | Adyen | Amsterdam |  |
+| [Senior Salesforce Administrator](https://job-boards.greenhouse.io/adyen/jobs/8236684) | Adyen | Amsterdam |  |
+| [Enterprise Account Executive](https://navan.com/careers/openings?gh_jid=8008077) | Navan | Amsterdam, NL |  |
+| [Senior Product Manager, Payments](https://navan.com/careers/openings?gh_jid=8171852) | Navan | Berlin, Germany |  |
+| [Senior Infrastructure Engineer](https://careers.toasttab.com/jobs?gh_jid=8210638) | Toast | Dublin, Ireland |  |
+| [Senior Product Designer – Toast Retail](https://careers.toasttab.com/jobs?gh_jid=8276127) | Toast | Dublin, Ireland |  |
+| [Senior Product Manager, Team Management](https://careers.toasttab.com/jobs?gh_jid=8258222) | Toast | Dublin |  |
+| [Senior Software Engineer, Application Infrastructure](https://careers.toasttab.com/jobs?gh_jid=8259169) | Toast | Dublin, Ireland |  |
+| [Senior Software Engineer, IQ Grow](https://careers.toasttab.com/jobs?gh_jid=8249589) | Toast | Dublin, Ireland |  |
+| [Senior Software Engineer - Product-Led Growth](https://careers.toasttab.com/jobs?gh_jid=8249586) | Toast | Dublin, Ireland |  |
+| [Senior Software Engineer - Toast Connect](https://careers.toasttab.com/jobs?gh_jid=8230767) | Toast | Dublin, Ireland |  |
 
 All 3,000 roles are in [jobs.csv](jobs.csv).
