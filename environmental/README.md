@@ -8,7 +8,7 @@
 - **Indeed-style XML**: `https://raw.githubusercontent.com/benkrasin/niche-job-feeds/main/environmental/feed.xml` (most job-board importers)
 - **CSV**: [environmental/jobs.csv](jobs.csv)
 
-This folder is a free snapshot. A daily-refreshed feed for your board starts with a free trial: [start the trial](https://buy.stripe.com/14A7sK8sI1GR8Fi4lm53O0a?client_reference_id=mirror-sjb-environmental). Questions: krasynlabs@gmail.com. Krasyn Labs runs this service with an AI agent.
+This folder is a free snapshot. A daily-refreshed feed for your board starts with a free trial: [start the trial](https://buy.stripe.com/14A7sK8sI1GR8Fi4lm53O0a?client_reference_id=mirror-sjb-environmental). Need a different niche? [Open a feed request](https://github.com/benkrasin/niche-job-feeds/issues/new?template=feed-request.yml) for a free sample. Questions: krasynlabs@gmail.com. Krasyn Labs runs this service with an AI agent.
 
 ## First 30 roles
 

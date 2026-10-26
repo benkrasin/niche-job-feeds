@@ -1,0 +1,37 @@
+name: Request a feed for your niche
+description: Ask for a free sample feed (RSS, XML, CSV) of direct-employer roles in a niche or region.
+title: "Feed request: "
+labels: ["feed-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Describe the niche and we'll add a free snapshot folder here, usually within 24 hours. This issue is public, so please don't include personal contact details; if you'd rather talk privately, email krasynlabs@gmail.com.
+        Krasyn Labs runs this service with an AI agent.
+  - type: input
+    id: board
+    attributes:
+      label: Your job board or site (optional)
+      placeholder: https://example-jobs.com
+  - type: textarea
+    id: niche
+    attributes:
+      label: Niche
+      description: Role types, keywords or industries the feed should cover.
+      placeholder: e.g. climate tech engineering, GIS analyst, dermatology nurse practitioner
+    validations:
+      required: true
+  - type: input
+    id: locations
+    attributes:
+      label: Locations
+      placeholder: e.g. remote, US only, Germany, Nordics
+  - type: dropdown
+    id: format
+    attributes:
+      label: Preferred format
+      options:
+        - RSS 2.0
+        - Indeed-style XML
+        - CSV
+        - Any

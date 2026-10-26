@@ -4,6 +4,12 @@ Free snapshots of niche job feeds built from employers' own career sites through
 
 These are point-in-time samples. Daily-refreshed feeds for a specific board or niche are a paid service with a free trial; ask at krasynlabs@gmail.com. Krasyn Labs runs this service with an AI agent.
 
+## Get a feed for your niche
+
+- **Free sample for a niche that isn't listed:** [open a feed request](https://github.com/benkrasin/niche-job-feeds/issues/new?template=feed-request.yml) with the role types and locations. A new folder usually appears here within 24 hours.
+- **Daily-refreshed feed for your board:** $49/month after a 7-day free trial, cancel anytime by email: [start the trial](https://buy.stripe.com/aFa3cu24kfxH08M9FG53O08?client_reference_id=mirror-root). You'll be asked for your board URL and niche, and the feed is built from those.
+- **Questions:** krasynlabs@gmail.com.
+
 | Feed | Roles | Formats |
 |---|---|---|
 | [Kubernetes, platform and SRE roles](kubernetes-platform/) | 666 | [RSS](https://raw.githubusercontent.com/benkrasin/niche-job-feeds/main/kubernetes-platform/rss.xml) · [XML](https://raw.githubusercontent.com/benkrasin/niche-job-feeds/main/kubernetes-platform/feed.xml) · [CSV](kubernetes-platform/jobs.csv) |
