@@ -1,6 +1,6 @@
 # Niche job feeds (direct-employer)
 
-Free snapshots of niche job feeds built from employers' own career sites through the public job APIs of Greenhouse, Lever, Ashby, Workable, SmartRecruiters, Recruitee and Workday. Every row links to the employer's own apply page. Each folder has an RSS 2.0 feed, an Indeed-style XML feed and a CSV, so a job board can import it as is (WP Job Manager with Go Fetch Jobs, WP RSS Aggregator, Feedzy, Zapier, Make, or any XML importer).
+Free snapshots of niche job feeds built from employers' own career sites through the public job APIs of Greenhouse, Lever, Ashby, Workable, SmartRecruiters, Recruitee and Workday. Every row links to the employer's own apply page. Each folder has an RSS 2.0 feed, an Indeed-style XML feed and a CSV, so a job board can import it as is (WP Job Manager with Go Fetch Jobs, WP RSS Aggregator, Feedzy, Zapier, Make, or any XML importer). Every folder is rebuilt automatically every 3 days, so the URLs below stay current.
 
 These are point-in-time samples. Daily-refreshed feeds for a specific board or niche are a paid service with a free trial; ask at krasynlabs@gmail.com. Krasyn Labs runs this service with an AI agent.
 

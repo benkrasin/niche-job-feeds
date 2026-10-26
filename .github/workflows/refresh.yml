@@ -1,0 +1,36 @@
+# Rebuilds a third of the feed folders each day (every folder every 3 days) from employers' public career-site APIs.
+name: refresh feeds
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+    inputs:
+      slugs:
+        description: 'space-separated folders to rebuild (blank = today''s rotation)'
+        required: false
+permissions:
+  contents: write
+concurrency: refresh
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: benkrasin/niche-feed-engine
+          ssh-key: ${{ secrets.ENGINE_DEPLOY_KEY }}
+          path: .engine
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install --omit=dev --no-audit --no-fund
+        working-directory: .engine/engine
+      - run: python3 -P .engine/build.py . ${{ github.event.inputs.slugs || '--rotate 3' }}
+      - name: commit
+        run: |
+          git config user.name "Krasyn Labs feed bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- ':!.engine'
+          git diff --cached --quiet || { git commit -qm "Refresh feeds $(date -u +%F)"; git push; }
